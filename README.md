@@ -12,7 +12,4 @@ In addition, I'm familiar with JavaScript, TypeScript, Git, REST APIs, and basic
   <img style="border-radius: 20%;" src="https://i.pinimg.com/736x/92/fa/b4/92fab42f1a6f71e626c029fa93b43011.jpg" height="256" />
   <img style="border-radius: 20%;" src="https://i.pinimg.com/736x/ef/69/92/ef6992e57090ef4101072f272d7ca9c1.jpg" height="256" />
   <img style="border-radius: 20%;" src="https://i.pinimg.com/736x/c7/9d/d7/c79dd7d0ac566971576a763e98892964.jpg" height="256" />
-  <img style="border-radius: 20%;" src="https://i.pinimg.com/736x/d5/0b/e9/d50be9c91b7da80b7f939720f5aaa3cb.jpg" height="256" />
-  <img style="border-radius: 20%;" src="https://i.pinimg.com/736x/c7/4f/52/c74f525bc7c7d467e72a08d5c878bf4d.jpg" height='256'> 
-  <img style="border-radius: 20%;" src="https://i.pinimg.com/736x/5e/91/82/5e918203af1202eac0a8e286f8b9052e.jpg" height='256'> 
 </div>
