@@ -1,9 +1,6 @@
 <h1 align="center">Hola, I'm <a href="https://en.wikipedia.org/wiki/Albert_Gonzalez" target="_blank">Albert</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h5 align="center">
-⭐ Hi! I'm a 17-year-old frontend developer. I work with HTML, CSS, React, React Native, Redux, and SQL. I also write scripts for RAGE:MP. In addition, I'm familiar with JavaScript, TypeScript, Git, REST APIs, and basic UI/UX principles. I have experience building responsive and cross-browser interfaces, and have worked with version control systems. I'm constantly learning and striving to grow as a professional.
-</h5>
 
 <h2 align="center">I also absolutely love cats — just take a look at these adorable fluffballs! 🐱</h2>
 
