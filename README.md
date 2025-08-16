@@ -1,11 +1,7 @@
-<h1 align="center">Hola, I'm <a href="https://en.wikipedia.org/wiki/Albert_Gonzalez" target="_blank">Albert</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+🐾 Albert
 
+I don’t really know why I’m writing this here on my GitHub profile. Maybe this isn’t the place for such words, but I still want to leave a few lines about something that matters to me. Cats are fascinating creatures that have walked alongside humans for thousands of years. They can sleep up to sixteen hours a day 😴, and spend the rest of their time exploring the world and showing their independence. Scientists even claim that their purring has a healing effect: reducing stress and helping the body recover. ✨
 
-<h2 align="center">I also absolutely love cats — just take a look at these adorable fluffballs! 🐱</h2>
+Every cat is different: some are calm and affectionate, others curious and playful 🐾. Yet all of them bring comfort and have a strange ability to make any place feel like home. In ancient Egypt they were considered sacred animals, protectors of the household. 🏺 Today they’ve become family members, sources of warmth and joy. Sometimes I feel that in their grace and calmness lies the kind of harmony I want to find in both life and work.
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 16px;">
-  <img style="border-radius: 20%;" src="https://i.pinimg.com/736x/92/fa/b4/92fab42f1a6f71e626c029fa93b43011.jpg" height="256" />
-  <img style="border-radius: 20%;" src="https://i.pinimg.com/736x/ef/69/92/ef6992e57090ef4101072f272d7ca9c1.jpg" height="256" />
-  <img style="border-radius: 20%;" src="https://i.pinimg.com/736x/c7/9d/d7/c79dd7d0ac566971576a763e98892964.jpg" height="256" />
-</div>
+And maybe now is the moment to confess: I’m just 17, and already diving deep into the world of frontend. Writing code for me is a lot like observing cats. Both require patience, attention, and a quiet fascination with how small details shape the bigger picture. 🐈‍⬛
