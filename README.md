@@ -20,26 +20,9 @@
   * Разработано на **Next.js**, **React 19** и **MySQL**.
   * Особенности: Реалтайм-трекинг кликов с атомарными инкрементами в базе данных, двойная стилизация (Modern / RDR2) и адаптивный интерфейс.
 
-* 🎨 **[ASCII Art Generator](https://github.com/Alberithus/bio-portfolio)** *(В разработке)*
+* 🎨 **[ASCII Art Generator](https://albertbio.space/ascii)**
   * *Высокопроизводительный конвертер графики и видеопотоков в ASCII-символы.*
   * Стек: **React**, **Canvas API**, **Web Workers** для вынесения тяжелых вычислений в фоновые потоки.
-
----
-
-### 📊 Моя активность на GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alberithus&show_icons=true&theme=nord&hide_border=false" alt="Albert's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alberithus&theme=nord&hide_border=false" alt="Albert's Streak Stats" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberithus&layout=compact&theme=nord&hide_border=false" alt="Top Languages" width="55%" />
-</div>
-
----
 
 ### 📫 Связь со мной
 
